@@ -145,7 +145,7 @@ if __name__ == '__main__':
 
 # Server:
 
-![Screenshot 2024-04-29 204136](https://github.com/AnnaLahari/ChatStudy/assets/149365425/278527fa-7af9-4e3e-bdfc-50c0545ac072)
+![Screenshot 2024-04-29 204136](https://github.com/AnnaLahari/ChatStudy/assets/149365425/38e1fd2e-2bc4-45c0-88fa-ad8d9b9fc504)
 
 ## Result:
 
